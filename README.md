@@ -60,3 +60,13 @@ streamlit run app.py
 git add README.md
 git commit -m "Fixed README encoding and formatting"
 git push
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 📤 Resume Upload
+![Upload](screenshots/upload.png)
+
+### 📊 Results Dashboard
+![Results](screenshots/results.png)
